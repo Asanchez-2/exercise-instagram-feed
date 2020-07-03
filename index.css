@@ -1,0 +1,52 @@
+body {
+    background-color: rgba(235, 234, 232);
+    margin: 0px;
+}
+
+.box-500 {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.document-title {
+    text-align: center;
+    padding: 20px;
+}
+
+.post-title {
+    padding-left: 8px;
+}
+
+.post-img {
+    width: 100%;
+    height: 300px;
+    background: no-repeat; 
+    background-size: cover;
+}
+
+
+.post {
+    background: white;
+    margin-top: 30px;
+}
+
+.header {
+    background: white;
+}
+
+.post-header {
+    display: flex;
+}
+
+.post-header span {
+    padding-top: 22px;
+    padding-right: 8px;
+    text-align: right;
+    flex-grow: 2;
+}
+
+.post-content {
+    padding: 10px;
+}
